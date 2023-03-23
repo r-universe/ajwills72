@@ -8,3 +8,8 @@
 	url = https://github.com/ajwills72/catlearn
 	shallow = true
 	registered = true
+[submodule "grt"]
+	path = grt
+	url = https://github.com/cran/grt
+	shallow = true
+	registered = true
